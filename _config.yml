@@ -1,0 +1,8 @@
+title: RDF.rb
+description: RDF.rb is a pure-Ruby library for working with Resource Description Framework (RDF) data.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
